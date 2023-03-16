@@ -33,7 +33,7 @@ export const Hero = () => {
               bgClip="text"
               data-aos="fade-up"
             >
-              Open-source conversational forms builder
+              Created By Astitva Singh
             </Heading>
             <Text
               fontSize={['lg', 'xl']}
@@ -42,7 +42,7 @@ export const Hero = () => {
               data-aos="fade-up"
               data-aos-delay="100"
             >
-              Typebot gives you powerful blocks to create unique chat
+              Formbot gives you powerful blocks to create unique chat
               experiences. Embed them anywhere on your web/mobile apps and start
               collecting results like magic.
             </Text>
@@ -59,7 +59,7 @@ export const Hero = () => {
                 height="4rem"
                 px="2rem"
               >
-                Create a typebot for free
+                Create a Formbot for free
               </Button>
             </Stack>
           </VStack>
